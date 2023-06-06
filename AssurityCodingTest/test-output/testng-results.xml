@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-06T20:52:14 CST" name="AssurityExamRFabella" finished-at="2023-06-06T20:52:18 CST" duration-ms="4005">
+    <groups>
+    </groups>
+    <test started-at="2023-06-06T20:52:14 CST" name="ResponseValidation" finished-at="2023-06-06T20:52:18 CST" duration-ms="4005">
+      <class name="tests.assurity">
+        <test-method signature="responseValidation()[pri:0, instance:tests.assurity@73ee04c8]" started-at="2023-06-06T20:52:14 CST" name="responseValidation" finished-at="2023-06-06T20:52:18 CST" duration-ms="3975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responseValidation -->
+      </class> <!-- tests.assurity -->
+    </test> <!-- ResponseValidation -->
+  </suite> <!-- AssurityExamRFabella -->
+</testng-results>
